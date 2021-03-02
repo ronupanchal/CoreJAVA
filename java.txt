@@ -1,0 +1,46 @@
+	1)	What is the use of this() and supar()?	
+	2)	What is Bytecode, Unicode and native code?	
+	3)	How to compare two object?	
+	4)	How java implement feature of goto?	
+	5)	What is difference between applet and application?	
+	6)	What do you mean by immutable object? Explain with example.	
+	7)	What is different between final, finally and finalize()?	
+	8)	What is difference between paint() and repaint()?	
+	9)	What is JDK & JRE?	
+	10)	What is static member function?	
+	11)	Which package is default imported in any java class?	
+	12)	What is the use of javadoc command?	
+	13)	What is wrapper class? List out its name.	
+	14)	What do you mean by CLASSPATH?	
+	15)	Give the purpose of yield(), wait() and join() method.	
+		
+
+	1)	Define Package. Explain type of package.	
+	2)	What is the difference between Java and C++?	
+	3)	Explain Java Data Types and Wrapper Class.	
+	4)	Explain Program structure of Java.	
+	5)	What is Garbage collection? How it works?	
+	6)	Explain Operators in detail.	
+	7)	What is Java? Explain its Buzzwords.	
+	8)	Explain control structure in detail.	
+		
+
+	1)	What is Exception? List built in exception and throw and throws keyword.	
+	2)	How JVM (Java Virtual Machine) Works? Explain in detail.	
+	3)	What do you mean by Method overriding and Overloading? Give example.	
+	4)	What is interface? Give example.	
+	5)	Explain life cycle of the applet.	
+	6)	Explain String and StringBuffer class any five method.	
+	7)	What is Thread and Synchronization? Explain Thread life cycle.	
+		
+	Write a program to print n number command line arguments.	
+	[OR]	
+	Write a program to demonstrate use of multilevel inheritance.
+
+	Write a program to print five string command line arguments.
+	[OR]
+	Write a program to demonstrate use of multilevel inheritance.
+	
+
+
+
